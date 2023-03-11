@@ -1,0 +1,6 @@
+HOST=us-east.connect.psdb.cloud
+USERNAME=47b3g9jy98gptb6kwew0
+PASSWORD=pscale_pw_IYMapG6lXGZSMlq1lPcOf1LLbapkdm922hOr495Xlov
+DATABASE=provas_cepi
+
+
